@@ -3,7 +3,7 @@
 留给需要的人  
 
 ## Requirements
-· Python3 
+· Python3   
 · PyQt5  
 · PyQt5 - tools  
   
