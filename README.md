@@ -6,11 +6,18 @@
 · Python3   
 · PyQt5  
 · PyQt5 - tools  
-  
+### Windows
 ```
 pip install pyqt5
 pip install pyqt5-tools
 ```  
+### Linux
+```
+sudo apt-get install python3-pyqt5
+sudo apt-get install qt5-default qttools5-dev-tools
+cd ~/micro_controller_SmartFan/micro_controller_serial
+python3 main.py
+```
 ## How to use
 #### Windows
 ```
