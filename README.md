@@ -13,7 +13,7 @@ pip install pyqt5
 pip install pyqt5-tools
 pip install pyserial
 ```  
-### Linux
+### Linux(Ubuntu)
 ```
 sudo apt-get install python3-pyqt5
 sudo apt-get install qt5-default qttools5-dev-tools
